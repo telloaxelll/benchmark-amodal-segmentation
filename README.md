@@ -5,5 +5,5 @@ This GitHub repository is established to continue researching, benchmarking, and
 segmentation. This repository will attempt to establish baselines between both architectures, and provide metrics for evaluating machine 
 learning models using convolutional neural networks (CNNs).
 
-## Author Notes: 
+### Author Notes: 
 This research is ongoing alongside other members of the team such as: Melanie Bustos-Gomez, Wesley Hur, Eduardo Lizarzaburu. 
