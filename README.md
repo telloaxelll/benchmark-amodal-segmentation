@@ -1,4 +1,4 @@
-# Benchmarking U-NET and Neural Cellular Automata (NCA) for Amodal Segmentation
+# Benchmarking U-NET and Neural Cellular Automata (NCA) for Amodal Image Segmentation
 
 ## Introduction: 
 This GitHub repository is established to continue researching, benchmarking, and analyzing U-NET and NCA architectures for amodal image 
